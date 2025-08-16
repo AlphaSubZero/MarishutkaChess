@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Marishutka Chess</string>
+    <string name="waiting_for_opponent">Ожидание оппонента…</string>
+    <string name="your_turn">Ваш ход</string>
+    <string name="opponent_turn">Ход соперника</string>
+    <string name="game_finished">Игра завершена</string>
+    <string name="you_won">Вы победили!</string>
+    <string name="you_lost">Вы проиграли</string>
+    <string name="draw">Ничья</string>
+</resources>
